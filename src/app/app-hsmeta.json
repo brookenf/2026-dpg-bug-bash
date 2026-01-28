@@ -2,8 +2,8 @@
   "uid": "get_started_app",
   "type": "app",
   "config": {
-    "description": "Brooke's 2026 GH Action testing",
-    "name": "Brooke's Get Started App",
+    "description": "2026 GH Action testing",
+    "name": "DPG Bug Bash Get Started App",
     "distribution": "private",
     "auth": {
       "type": "static",
